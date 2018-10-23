@@ -1,10 +1,10 @@
 def new_hash
- idiot ={}
- idiot
+ new_hash ={}
+ new_hash
 end
 
 def actor
-
+ actor = {:name => "harchi"}
 end
 
 def monopoly
